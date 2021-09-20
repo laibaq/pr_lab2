@@ -1,1 +1,1 @@
-# pr_lab2
+# pr_lab2 is about basics of programming
